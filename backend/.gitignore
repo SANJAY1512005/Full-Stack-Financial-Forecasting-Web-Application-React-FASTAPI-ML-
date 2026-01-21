@@ -1,0 +1,16 @@
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# ML model
+*.pth
+
+# Environment
+.env
+
+# OS
+.DS_Store
